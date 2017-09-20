@@ -61,7 +61,6 @@ namespace Security.Hmac
                     return messageReceivedContext.Result;
                 }
 
-
                 // If application retrieved signature from somewhere else, use that.
                 signature = messageReceivedContext.Signature;
 
@@ -88,15 +87,17 @@ namespace Security.Hmac
                 }
 
                 List<Exception> validationFailures = null;
-                if(Authorize(Request, AccessID, Signature))
+                if (Authorize(Request, AccessID, Signature))
                 {
-                    //var signatureValidatedContext = new SignatureValidatedContext(Context, Scheme, Options);
-
-                    //await Events.SignatureValidated(signatureValidatedContext);
-                    //if (signatureValidatedContext.Result != null)
-                    //{
-                    //    return signatureValidatedContext.Result;
-                    //}
+                    var signatureValidatedContext = new SignatureValidatedContext(Context, Scheme, Options);
+                    HmacIdentity identityUser = null;
+                    if (identityUser == null)
+                    {
+                        identityUser = new HmacIdentity(AccessID);
+                    }
+                    var principal = new ClaimsPrincipal(identityUser);
+                    var ticket = new AuthenticationTicket(principal, new AuthenticationProperties(), HmacDefaults.AuthenticationScheme);
+                    return AuthenticateResult.Success(ticket);
                 }
 
                 if (validationFailures != null)
@@ -119,7 +120,7 @@ namespace Security.Hmac
             }
             catch (Exception ex)
             {
-                System.IO.File.WriteAllLines(@"Error.txt", new string[]{ ex.Message });
+                System.IO.File.WriteAllLines(@"Error.txt", new string[] { ex.Message });
                 var authenticationFailedContext = new AuthenticationFailedContext(Context, Scheme, Options)
                 {
                     Exception = ex
@@ -249,7 +250,7 @@ namespace Security.Hmac
                 return Convert.ToBase64String(HashedBytes);
             }
             catch (Exception ex)
-            {  
+            {
                 throw ex;
             }
         }

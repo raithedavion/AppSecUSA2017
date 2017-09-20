@@ -1522,11 +1522,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Documents\\Visual Studio 2017\\Projects\\Security.Hmac\\Security.Hmac\\Security.Hmac.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Dropbox\\AppSec USA\\Security.Hmac\\Security.Hmac\\Security.Hmac.csproj",
       "projectName": "Security.Hmac",
-      "projectPath": "C:\\Users\\admin\\Documents\\Visual Studio 2017\\Projects\\Security.Hmac\\Security.Hmac\\Security.Hmac.csproj",
+      "projectPath": "C:\\Users\\admin\\Dropbox\\AppSec USA\\Security.Hmac\\Security.Hmac\\Security.Hmac.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Documents\\Visual Studio 2017\\Projects\\Security.Hmac\\Security.Hmac\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Dropbox\\AppSec USA\\Security.Hmac\\Security.Hmac\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
