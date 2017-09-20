@@ -76,7 +76,15 @@ namespace Security.Hmac
 
                     if (authorization.StartsWith("appsec ", StringComparison.OrdinalIgnoreCase))
                     {
-                        signature = authorization.Substring("appsec ".Length).Trim();
+                        string fullAuth = authorization.Substring("appsec ".Length).Trim();
+                        string[] Auth = fullAuth.Replace("appsec ", "").Split(':');
+                        AccessID = Auth[0];
+                        signature = Auth[1];
+                        if(string.IsNullOrEmpty(signature))
+                            return AuthenticateResult.NoResult();
+                        Options.PublicKey = AccessID;
+                        Signature = signature;
+
                     }
 
                     // If no token found, no further work possible
