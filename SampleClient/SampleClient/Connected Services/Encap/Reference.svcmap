@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c983c8c8-2243-40f5-8ca4-501befdde4ac" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://localhost/Encap.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Encap.xsd" MetadataType="Schema" ID="f6347291-d7df-4b30-9006-745d2d7a755c" SourceId="1" SourceUrl="https://localhost/Encap.svc?xsd=xsd1" />
+    <MetadataFile FileName="Encap.disco" MetadataType="Disco" ID="5b1a5a39-db27-459a-87e1-0f5213fb9488" SourceId="1" SourceUrl="https://localhost/Encap.svc?disco" />
+    <MetadataFile FileName="Encap1.xsd" MetadataType="Schema" ID="7fc00ad2-cbd6-4baf-90ae-8b3fd3669bf3" SourceId="1" SourceUrl="https://localhost/Encap.svc?xsd=xsd2" />
+    <MetadataFile FileName="Encap.wsdl" MetadataType="Wsdl" ID="13ad384a-7ff9-4f19-be6c-a757384326cb" SourceId="1" SourceUrl="https://localhost/Encap.svc?wsdl" />
+    <MetadataFile FileName="Encap2.xsd" MetadataType="Schema" ID="e0c4c7dc-325c-457c-be64-cb34f9f86784" SourceId="1" SourceUrl="https://localhost/Encap.svc?xsd=xsd0" />
+    <MetadataFile FileName="Encap3.xsd" MetadataType="Schema" ID="89e6d777-a3c2-4887-9f36-51c7eefda115" SourceId="1" SourceUrl="https://localhost/Encap.svc?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

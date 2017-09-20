@@ -1,0 +1,14 @@
+E:\Dropbox\AppSec USA\MyMembershipProvider\bin\Release\MyMembershipProvider.dll
+E:\Dropbox\AppSec USA\MyMembershipProvider\bin\Release\MyMembershipProvider.pdb
+E:\Dropbox\AppSec USA\MyMembershipProvider\bin\Release\ToolKit.dll
+E:\Dropbox\AppSec USA\MyMembershipProvider\obj\Release\MyMembershipProvider.csprojResolveAssemblyReference.cache
+E:\Dropbox\AppSec USA\MyMembershipProvider\obj\Release\MyMembershipProvider.csproj.CoreCompileInputs.cache
+E:\Dropbox\AppSec USA\MyMembershipProvider\obj\Release\MyMembershipProvider.dll
+E:\Dropbox\AppSec USA\MyMembershipProvider\obj\Release\MyMembershipProvider.pdb
+C:\Users\admin\Dropbox\AppSec USA\MyMembershipProvider\bin\Release\MyMembershipProvider.dll
+C:\Users\admin\Dropbox\AppSec USA\MyMembershipProvider\bin\Release\MyMembershipProvider.pdb
+C:\Users\admin\Dropbox\AppSec USA\MyMembershipProvider\bin\Release\ToolKit.dll
+C:\Users\admin\Dropbox\AppSec USA\MyMembershipProvider\obj\Release\MyMembershipProvider.csprojResolveAssemblyReference.cache
+C:\Users\admin\Dropbox\AppSec USA\MyMembershipProvider\obj\Release\MyMembershipProvider.dll
+C:\Users\admin\Dropbox\AppSec USA\MyMembershipProvider\obj\Release\MyMembershipProvider.pdb
+C:\Users\admin\Dropbox\AppSec USA\MyMembershipProvider\obj\Release\MyMembershipProvider.csproj.CoreCompileInputs.cache

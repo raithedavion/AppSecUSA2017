@@ -1,0 +1,14 @@
+E:\Dropbox\AppSec USA\SampleClient\SampleClient\bin\Debug\SampleClient.exe.config
+E:\Dropbox\AppSec USA\SampleClient\SampleClient\bin\Debug\SampleClient.exe
+E:\Dropbox\AppSec USA\SampleClient\SampleClient\bin\Debug\SampleClient.pdb
+E:\Dropbox\AppSec USA\SampleClient\SampleClient\obj\Debug\SampleClient.csprojResolveAssemblyReference.cache
+E:\Dropbox\AppSec USA\SampleClient\SampleClient\obj\Debug\SampleClient.csproj.CoreCompileInputs.cache
+E:\Dropbox\AppSec USA\SampleClient\SampleClient\obj\Debug\SampleClient.exe
+E:\Dropbox\AppSec USA\SampleClient\SampleClient\obj\Debug\SampleClient.pdb
+C:\Users\admin\Dropbox\AppSec USA\SampleClient\SampleClient\bin\Debug\SampleClient.exe.config
+C:\Users\admin\Dropbox\AppSec USA\SampleClient\SampleClient\bin\Debug\SampleClient.exe
+C:\Users\admin\Dropbox\AppSec USA\SampleClient\SampleClient\bin\Debug\SampleClient.pdb
+C:\Users\admin\Dropbox\AppSec USA\SampleClient\SampleClient\obj\Debug\SampleClient.csprojResolveAssemblyReference.cache
+C:\Users\admin\Dropbox\AppSec USA\SampleClient\SampleClient\obj\Debug\SampleClient.csproj.CoreCompileInputs.cache
+C:\Users\admin\Dropbox\AppSec USA\SampleClient\SampleClient\obj\Debug\SampleClient.exe
+C:\Users\admin\Dropbox\AppSec USA\SampleClient\SampleClient\obj\Debug\SampleClient.pdb

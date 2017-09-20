@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Core2-API-1\Core2-API-1\bin\Debug\netcoreapp2.0\Core2-API-1.deps.json
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Core2-API-1\Core2-API-1\bin\Debug\netcoreapp2.0\Core2-API-1.runtimeconfig.json
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Core2-API-1\Core2-API-1\bin\Debug\netcoreapp2.0\Core2-API-1.runtimeconfig.dev.json
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Core2-API-1\Core2-API-1\bin\Debug\netcoreapp2.0\Core2-API-1.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Core2-API-1\Core2-API-1\bin\Debug\netcoreapp2.0\Core2-API-1.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Core2-API-1\Core2-API-1\bin\Debug\netcoreapp2.0\Security.Hmac.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Core2-API-1\Core2-API-1\bin\Debug\netcoreapp2.0\Security.Hmac.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Core2-API-1\Core2-API-1\obj\Debug\netcoreapp2.0\Core2-API-1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Core2-API-1\Core2-API-1\obj\Debug\netcoreapp2.0\Core2-API-1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Core2-API-1\Core2-API-1\obj\Debug\netcoreapp2.0\Core2-API-1.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Core2-API-1\Core2-API-1\obj\Debug\netcoreapp2.0\Core2-API-1.AssemblyInfo.cs
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Core2-API-1\Core2-API-1\obj\Debug\netcoreapp2.0\Core2-API-1.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Core2-API-1\Core2-API-1\obj\Debug\netcoreapp2.0\Core2-API-1.pdb

@@ -1,0 +1,47 @@
+E:\Projects\Tools and Utilities\ToolKit\bin\Debug\ToolKit.dll
+E:\Projects\Tools and Utilities\ToolKit\bin\Debug\ToolKit.pdb
+E:\Projects\Tools and Utilities\ToolKit\obj\Debug\ToolKit.dll
+E:\Projects\Tools and Utilities\ToolKit\obj\Debug\ToolKit.pdb
+E:\Projects\Tools and Utilities\ToolKit\obj\Debug\ToolKit.csprojResolveAssemblyReference.cache
+E:\Dropbox\Projects\ztserver\ToolKit\bin\Debug\ToolKit.dll
+E:\Dropbox\Projects\ztserver\ToolKit\bin\Debug\ToolKit.pdb
+E:\Dropbox\Projects\ztserver\ToolKit\bin\Debug\Newtonsoft.Json.dll
+E:\Dropbox\Projects\ztserver\ToolKit\bin\Debug\PushSharp.Amazon.dll
+E:\Dropbox\Projects\ztserver\ToolKit\bin\Debug\PushSharp.Apple.dll
+E:\Dropbox\Projects\ztserver\ToolKit\bin\Debug\PushSharp.Blackberry.dll
+E:\Dropbox\Projects\ztserver\ToolKit\bin\Debug\PushSharp.Core.dll
+E:\Dropbox\Projects\ztserver\ToolKit\bin\Debug\PushSharp.Firefox.dll
+E:\Dropbox\Projects\ztserver\ToolKit\bin\Debug\PushSharp.Google.dll
+E:\Dropbox\Projects\ztserver\ToolKit\bin\Debug\PushSharp.Windows.dll
+E:\Dropbox\Projects\ztserver\ToolKit\bin\Debug\Newtonsoft.Json.xml
+E:\Dropbox\Projects\ztserver\ToolKit\obj\Debug\ToolKit.csprojResolveAssemblyReference.cache
+E:\Dropbox\Projects\ztserver\ToolKit\obj\Debug\ToolKit.dll
+E:\Dropbox\Projects\ztserver\ToolKit\obj\Debug\ToolKit.pdb
+E:\Dropbox\Projects\ztserver\ToolKit\bin\Debug\Twilio.dll
+E:\Dropbox\Projects\ztserver\ToolKit\bin\Debug\JWT.dll
+E:\Dropbox\Projects\ztserver\ToolKit\bin\Debug\Twilio.pdb
+E:\Dropbox\Projects\ztserver\ToolKit\bin\Debug\Twilio.xml
+C:\Users\admin\Dropbox\Projects\ztserver\ToolKit\bin\Debug\ToolKit.dll
+C:\Users\admin\Dropbox\Projects\ztserver\ToolKit\bin\Debug\ToolKit.pdb
+C:\Users\admin\Dropbox\Projects\ztserver\ToolKit\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Dropbox\Projects\ztserver\ToolKit\bin\Debug\PushSharp.Amazon.dll
+C:\Users\admin\Dropbox\Projects\ztserver\ToolKit\bin\Debug\PushSharp.Apple.dll
+C:\Users\admin\Dropbox\Projects\ztserver\ToolKit\bin\Debug\PushSharp.Blackberry.dll
+C:\Users\admin\Dropbox\Projects\ztserver\ToolKit\bin\Debug\PushSharp.Core.dll
+C:\Users\admin\Dropbox\Projects\ztserver\ToolKit\bin\Debug\PushSharp.Firefox.dll
+C:\Users\admin\Dropbox\Projects\ztserver\ToolKit\bin\Debug\PushSharp.Google.dll
+C:\Users\admin\Dropbox\Projects\ztserver\ToolKit\bin\Debug\PushSharp.Windows.dll
+C:\Users\admin\Dropbox\Projects\ztserver\ToolKit\bin\Debug\Twilio.dll
+C:\Users\admin\Dropbox\Projects\ztserver\ToolKit\bin\Debug\JWT.dll
+C:\Users\admin\Dropbox\Projects\ztserver\ToolKit\bin\Debug\Twilio.pdb
+C:\Users\admin\Dropbox\Projects\ztserver\ToolKit\bin\Debug\Twilio.xml
+C:\Users\admin\Dropbox\Projects\ztserver\ToolKit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Dropbox\Projects\ztserver\ToolKit\obj\Debug\ToolKit.csprojResolveAssemblyReference.cache
+C:\Users\admin\Dropbox\Projects\ztserver\ToolKit\obj\Debug\ToolKit.dll
+C:\Users\admin\Dropbox\Projects\ztserver\ToolKit\obj\Debug\ToolKit.pdb
+E:\Dropbox\AppSec USA\ToolKit\bin\Debug\ToolKit.dll
+E:\Dropbox\AppSec USA\ToolKit\bin\Debug\ToolKit.pdb
+E:\Dropbox\AppSec USA\ToolKit\bin\Debug\Newtonsoft.Json.dll
+E:\Dropbox\AppSec USA\ToolKit\obj\Debug\ToolKit.csproj.CoreCompileInputs.cache
+E:\Dropbox\AppSec USA\ToolKit\obj\Debug\ToolKit.dll
+E:\Dropbox\AppSec USA\ToolKit\obj\Debug\ToolKit.pdb

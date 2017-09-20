@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\Dropbox\AppSec USA\Soap-Basic\Soap-Basic\bin\Release\PublishOutput</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="BasicService.svc">
+      <publishTime>09/14/2017 16:22:07</publishTime>
+    </File>
+    <File Include="bin/Models.dll">
+      <publishTime>09/15/2017 21:08:38</publishTime>
+    </File>
+    <File Include="bin/Models.pdb">
+      <publishTime>09/15/2017 21:08:38</publishTime>
+    </File>
+    <File Include="bin/MyMembershipProvider.dll">
+      <publishTime>09/15/2017 22:19:24</publishTime>
+    </File>
+    <File Include="bin/MyMembershipProvider.pdb">
+      <publishTime>09/15/2017 22:19:24</publishTime>
+    </File>
+    <File Include="bin/Soap-Basic.dll">
+      <publishTime>09/16/2017 16:23:42</publishTime>
+    </File>
+    <File Include="bin/Soap-Basic.pdb">
+      <publishTime>09/16/2017 16:23:42</publishTime>
+    </File>
+    <File Include="bin/ToolKit.dll">
+      <publishTime>09/15/2017 17:06:25</publishTime>
+    </File>
+    <File Include="Encap.svc">
+      <publishTime>09/16/2017 12:55:32</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/15/2017 22:20:47</publishTime>
+    </File>
+    <File Include="RestService.svc">
+      <publishTime>09/16/2017 15:52:09</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/16/2017 16:24:16</publishTime>
+    </File>
+    <File Include="WSService.svc">
+      <publishTime>09/16/2017 11:11:43</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

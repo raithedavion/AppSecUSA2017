@@ -1,0 +1,11 @@
+E:\Dropbox\AppSec USA\Soap-Basic\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.deps.json
+E:\Dropbox\AppSec USA\Soap-Basic\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.runtimeconfig.json
+E:\Dropbox\AppSec USA\Soap-Basic\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.runtimeconfig.dev.json
+E:\Dropbox\AppSec USA\Soap-Basic\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.dll
+E:\Dropbox\AppSec USA\Soap-Basic\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.pdb
+E:\Dropbox\AppSec USA\Soap-Basic\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.csprojResolveAssemblyReference.cache
+E:\Dropbox\AppSec USA\Soap-Basic\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.csproj.CoreCompileInputs.cache
+E:\Dropbox\AppSec USA\Soap-Basic\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.AssemblyInfoInputs.cache
+E:\Dropbox\AppSec USA\Soap-Basic\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.AssemblyInfo.cs
+E:\Dropbox\AppSec USA\Soap-Basic\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.dll
+E:\Dropbox\AppSec USA\Soap-Basic\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.pdb

@@ -1,0 +1,8 @@
+E:\Dropbox\AppSec USA\Models\Models\bin\Debug\Models.dll
+E:\Dropbox\AppSec USA\Models\Models\bin\Debug\Models.pdb
+E:\Dropbox\AppSec USA\Models\Models\bin\Debug\ToolKit.dll
+E:\Dropbox\AppSec USA\Models\Models\bin\Debug\ToolKit.pdb
+E:\Dropbox\AppSec USA\Models\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\Dropbox\AppSec USA\Models\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+E:\Dropbox\AppSec USA\Models\Models\obj\Debug\Models.dll
+E:\Dropbox\AppSec USA\Models\Models\obj\Debug\Models.pdb

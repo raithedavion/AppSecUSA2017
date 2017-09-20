@@ -1,0 +1,5 @@
+E:\Dropbox\AppSec USA\Soap-Basic\WebAPI
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=WebAPI
+--content-root=E:\Dropbox\AppSec USA\Soap-Basic\WebAPI
+--file=

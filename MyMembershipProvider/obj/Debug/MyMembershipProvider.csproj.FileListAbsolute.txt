@@ -1,0 +1,8 @@
+E:\Dropbox\AppSec USA\MyMembershipProvider\bin\Debug\MyMembershipProvider.dll
+E:\Dropbox\AppSec USA\MyMembershipProvider\bin\Debug\MyMembershipProvider.pdb
+E:\Dropbox\AppSec USA\MyMembershipProvider\bin\Debug\ToolKit.dll
+E:\Dropbox\AppSec USA\MyMembershipProvider\bin\Debug\ToolKit.pdb
+E:\Dropbox\AppSec USA\MyMembershipProvider\obj\Debug\MyMembershipProvider.csprojResolveAssemblyReference.cache
+E:\Dropbox\AppSec USA\MyMembershipProvider\obj\Debug\MyMembershipProvider.csproj.CoreCompileInputs.cache
+E:\Dropbox\AppSec USA\MyMembershipProvider\obj\Debug\MyMembershipProvider.dll
+E:\Dropbox\AppSec USA\MyMembershipProvider\obj\Debug\MyMembershipProvider.pdb

@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Security.Hmac\Security.Hmac\bin\Debug\netcoreapp2.0\Security.Hmac.deps.json
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Security.Hmac\Security.Hmac\bin\Debug\netcoreapp2.0\Security.Hmac.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Security.Hmac\Security.Hmac\obj\Debug\netcoreapp2.0\Security.Hmac.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Security.Hmac\Security.Hmac\obj\Debug\netcoreapp2.0\Security.Hmac.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Security.Hmac\Security.Hmac\obj\Debug\netcoreapp2.0\Security.Hmac.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Security.Hmac\Security.Hmac\obj\Debug\netcoreapp2.0\Security.Hmac.AssemblyInfo.cs
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Security.Hmac\Security.Hmac\bin\Debug\netcoreapp2.0\Security.Hmac.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Security.Hmac\Security.Hmac\obj\Debug\netcoreapp2.0\Security.Hmac.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Security.Hmac\Security.Hmac\obj\Debug\netcoreapp2.0\Security.Hmac.pdb
